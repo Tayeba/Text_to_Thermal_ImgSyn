@@ -1,1 +1,1 @@
-# Visible-to-Thermal: Image Synthesis
+# Text-to-Thermal: Image Synthesis
